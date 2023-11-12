@@ -1,2 +1,2 @@
-# Nashville-Housing
+# Nashville Housing
 Nashville Housing - SQL Data Cleaning
